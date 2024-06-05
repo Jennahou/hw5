@@ -89,7 +89,7 @@ print(0);
 </html>
 
 ```
-- __競賽題5:__
+- 競賽題5:
 ```CSS
 <!DOCTYPE html>
 <html lang="zh-Hant">
@@ -130,7 +130,7 @@ print(0);
 </html>
 ```
 
-- __競賽題6:__
+- 競賽題6:
 ```CSS
 function printTree(treeHeight, treeGap) {
   let result = "";
